@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctrinaxiiapos00schlgoog_0175.png"; bbox 0 0 906 1392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 403 183 561 196">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 403 183 561 196">
+     <span class='ocr_line' id='line_1_1' title="bbox 403 183 561 196; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 403 185 471 195; x_wconf 68' lang='lat' dir='ltr'>sennem,</span> <span class='ocrx_word' id='word_1_2' title='bbox 478 183 561 196; x_wconf 61' lang='lat' dir='ltr'>Apnneusm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 556 1171 901 1189">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 556 1171 901 1189">
+     <span class='ocr_line' id='line_1_2' title="bbox 556 1171 901 1189; baseline -0.003 -3"><span class='ocrx_word' id='word_1_3' title='bbox 556 1172 579 1185; x_wconf 78' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 589 1172 680 1186; x_wconf 58' lang='lat' dir='ltr'>noenum</span> <span class='ocrx_word' id='word_1_5' title='bbox 690 1172 829 1186; x_wconf 78' lang='lat' dir='ltr'>APOSTOLORUM.</span> <span class='ocrx_word' id='word_1_6' title='bbox 851 1171 889 1185; x_wconf 74' lang='grc' dir='ltr'>Οοᾱ,</span> <span class='ocrx_word' id='word_1_7' title='bbox 898 1174 901 1189; x_wconf 88' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 128 1249 385 1332">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 128 1249 385 1332">
+     <span class='ocr_line' id='line_1_3' title="bbox 128 1249 385 1332; baseline 0 60"><span class='ocrx_word' id='word_1_8' title='bbox 128 1249 385 1332; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
